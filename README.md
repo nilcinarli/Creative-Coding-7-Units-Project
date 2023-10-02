@@ -7,6 +7,7 @@ Mr. Sedat and six students (1-Ahmet, 2-Nil, 3-Tansa, 4-Berk, 5-Kami, 6-Ceren) ar
  “If you just reduce the time you spend in the toilet, you can easily complete them.” -Mr. Yalçın
  
 This project contains the features of SwiftUi code:
+
 1)Variables
 2)Data abstraction
 3)Math expression
