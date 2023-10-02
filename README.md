@@ -8,14 +8,14 @@ Mr. Sedat and six students (1-Ahmet, 2-Nil, 3-Tansa, 4-Berk, 5-Kami, 6-Ceren) ar
  
 This project contains the features of SwiftUi code:
 
-1)Variables
-2)Data abstraction
-3)Math expression
-4)String
-5)Building expression
-6)Conditional
-7)Nested conditional
-8)Iteration
+1) Variables
+2) Data abstraction
+3) Math expression
+4) String
+5) Building expression
+6) Conditional
+7) Nested conditional
+8) Iteration
 
 Extra special guest: pixel avatars unique for each person who is in the guest
 
