@@ -17,5 +17,4 @@ This project contains the features of SwiftUi code:
 7) Nested conditional
 8) Iteration
 
-Extra special guest: pixel avatars unique for each person who is in the guest
 
